@@ -4,3 +4,4 @@ It's a free Safari Extension for the Mac that banish annotations, branding and s
 
 Checkout the site here:  
 http://samvlu.github.io/youtube-annotation-blocker/
+
