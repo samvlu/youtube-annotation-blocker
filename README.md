@@ -5,4 +5,4 @@ It's a free Safari Extension for the Mac that banish annotations, branding and s
 Checkout the site here:  
 http://samvlu.github.io/youtube-annotation-blocker/
 
-![title](https://raw.githubusercontent.com/samvlu/youtube-annotation-blocker/gh-pages/assets/screenie2.png)
+![title](https://raw.githubusercontent.com/samvlu/youtube-annotation-blocker/gh-pages/screenie/screenie.png)
