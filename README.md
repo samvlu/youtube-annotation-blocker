@@ -1,6 +1,6 @@
 # YouTube Annotation Blocker
 This is a website for downloading YouTube Annotation Blocker.  
-It's a free Safari Extension I made for the Mac that banishes annotations, branding and suggested videos
+It's a free Safari Extension I made that banishes annotations, branding and suggested videos
 
 Checkout the site here:  
 http://samvlu.github.io/youtube-annotation-blocker/
